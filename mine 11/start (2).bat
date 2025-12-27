@@ -1,0 +1,1 @@
+java -Xmx1024M -Xms1024M -paper-1.21.11-54 nogui
